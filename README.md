@@ -1,4 +1,4 @@
-# EcuadorCrisis_TikTok
+# Multimodal Dataset of TikToks related to the January 2024 Political Crisis in Ecuador
 
 
 This repository contains TikTok videos related to the Ecuador political crisis that occurred on January 2024. 
